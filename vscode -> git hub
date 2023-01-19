@@ -1,0 +1,14 @@
+vscode -> git hub
+
+
+git init
+
+git add .
+
+git commit -am "I remove this file"
+
+git remote add origin (https;// 깃허브주소)
+
+(git branch -M master)
+
+git push -u origin master
